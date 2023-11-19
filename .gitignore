@@ -1,0 +1,5 @@
+data/
+wandb/
+output/
+__pycache__/
+submission.csv
